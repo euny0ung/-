@@ -107,7 +107,7 @@ git clone https://lab.ssafy.com/s10-webmobile2-sub2/S10P12B209.git
 
 
 ### 메인화면
-![image](https://github.com/euny0ung/byeoril/assets/56199780/d738bb07-49f4-483b-b15e-9626c9b09e84)
+[![image](https://github.com/euny0ung/byeoril/assets/56199780/d738bb07-49f4-483b-b15e-9626c9b09e84)](https://github.com/euny0ung/byeoril/assets/56199780/967badf8-aa13-4805-9816-2e2bef65ddde)
 
 
 ### 게시글 작성
