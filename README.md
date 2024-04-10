@@ -1,5 +1,6 @@
 # 📖별일 - 평범했던 나의 하루에 찾아온 별일
-![상단메인](./asset/상단메인.gif)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/df2243e8-8750-4ed0-95ee-a1fbaca86f8f)
+
 
 ### 🕰️ 개발 기간
 
@@ -102,20 +103,26 @@ git clone https://lab.ssafy.com/s10-webmobile2-sub2/S10P12B209.git
 ## 📌서비스 화면
 
 ### 로그인
-![login](./asset/01_login.png)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/366e34c1-b9e5-4ea4-81d7-8de838bc7d53)
+
 
 ### 메인화면
-![main](./asset/02_main.gif)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/d738bb07-49f4-483b-b15e-9626c9b09e84)
+
 
 ### 게시글 작성
-![write](./asset/03_write.gif)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/8739e482-65ce-4479-a143-d3efff18f2ba)
+
 
 ### 별자리 형성
-![constellation](./asset/04_constellation.png)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/d746d683-5a6c-4b84-9770-d4df010bfbb3)
+
  게시글 작성을 통해 별자리 내 모든 별을 등록 시 별자리 형성
 
 ### 라디오 
-![radio1](./asset/05_1_radio.gif)
-![radio2](./asset/05_2_radio.png)
+![image](https://github.com/euny0ung/byeoril/assets/56199780/1c7c23a9-4196-4564-bb72-bdd6cb866981)
+
+![image](https://github.com/euny0ung/byeoril/assets/56199780/b2838712-0c7f-4c5c-8ca6-2c324b421fd0)
+
 
 
