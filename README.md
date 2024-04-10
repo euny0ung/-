@@ -111,7 +111,7 @@ git clone https://lab.ssafy.com/s10-webmobile2-sub2/S10P12B209.git
 
 
 ### 게시글 작성
-![image](https://github.com/euny0ung/byeoril/assets/56199780/8739e482-65ce-4479-a143-d3efff18f2ba)
+![03_write](https://github.com/euny0ung/byeoril/assets/56199780/fba4ba2b-6a15-4a13-93e3-ce9b5abd6c7c)
 
 
 ### 별자리 형성
