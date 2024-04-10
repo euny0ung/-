@@ -120,7 +120,8 @@ git clone https://lab.ssafy.com/s10-webmobile2-sub2/S10P12B209.git
  게시글 작성을 통해 별자리 내 모든 별을 등록 시 별자리 형성
 
 ### 라디오 
-![image](https://github.com/euny0ung/byeoril/assets/56199780/1c7c23a9-4196-4564-bb72-bdd6cb866981)
+![05_1_radio](https://github.com/euny0ung/byeoril/assets/56199780/b2937b77-5c65-4a93-9450-3aa05e8b3194)
+
 
 ![image](https://github.com/euny0ung/byeoril/assets/56199780/b2838712-0c7f-4c5c-8ca6-2c324b421fd0)
 
